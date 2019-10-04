@@ -1,0 +1,5 @@
+---
+applications:
+  - name: githook
+    path: target/githook-0.0.1-SNAPSHOT.jar
+ 
